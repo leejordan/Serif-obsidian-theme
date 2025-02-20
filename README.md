@@ -2,7 +2,7 @@
 
 Hello! This is my personal theme **Serif.** I created this theme out of the lack of themes I enjoyed. When I was looking for a theme, I was looking for, a serif font, colors easy on the eyes, and an enjoyable experience. When I couldn't find anything suitable, I created **Serif.**
 
-![[screenshot.png]]
+![[screenshot_1.png]]
 
 This is my first ever theme, so understand if there any bugs. I also created this theme for my own personal use, so it may not fit every use case.
 
